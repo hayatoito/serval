@@ -1,0 +1,20 @@
+[package]
+authors = ["Hayato Ito <hayato@google.com>"]
+description = "An experimental Web browser engine"
+edition = "2018"
+license = "MIT"
+name = "serval"
+repository = "https://github.com/hayatoito/serval"
+version = "0.1.0"
+
+[dependencies]
+combine = "3.6.6"
+failure = "0.1.5"
+image = "0.19.0"
+lazy_static = "1.2.0"
+log = "0.4.6"
+logger = "0.4.0"
+loggerv = "0.7.1"
+maplit = "1.0.1"
+ordered-float = "1.0.1"
+structopt = "0.2.14"
