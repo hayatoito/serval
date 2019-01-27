@@ -1,6 +1,7 @@
 # Serval - an Experimental Web Browser Engine
 
 [![Build Status](https://travis-ci.com/hayatoito/serval.svg?branch=master)](https://travis-ci.com/hayatoito/serval)
+[![crates.io](https://img.shields.io/crates/v/serval.svg)](https://crates.io/crates/serval)
 
 **Serval** is an experimental web browser engine written in Rust. The author
 (@hayatoito) is using Serval as a playground when designing and implementing a
